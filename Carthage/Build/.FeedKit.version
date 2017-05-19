@@ -1,0 +1,27 @@
+{
+  "iOS" : [
+    {
+      "hash" : "101987a81eb5b5ee6d77c62e2cda8315b295ba67cc816bab016f7b8bd6c68025",
+      "name" : "FeedKit"
+    }
+  ],
+  "commitish" : "5.1.0",
+  "watchOS" : [
+    {
+      "hash" : "6ed6ea6f1c5b398466d601f33c9edbb8649bf2e6bec2dee222c34bf2757391d9",
+      "name" : "FeedKit"
+    }
+  ],
+  "tvOS" : [
+    {
+      "hash" : "7a4bca63249f4bdf5f03ee25267aa422be9f58731799a9f9bd5a4794114fbf86",
+      "name" : "FeedKit"
+    }
+  ],
+  "Mac" : [
+    {
+      "hash" : "b0ac5ae676667549e8da85d31bf8456c5bb50590b8cc207f4210761cfa82cefb",
+      "name" : "FeedKit"
+    }
+  ]
+}
